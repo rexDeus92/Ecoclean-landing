@@ -1,12 +1,12 @@
 # EcoClean Home - Eco-Friendly Apartment Cleaning Landing Page
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub--Pages-181717?style=for-the-badge&logo=github)](https://rexdeus92.github.io/ecoclean-landing)
+[![GitHub Pages](https://img.shields.io/badge/GitHub--Pages-181717?style=for-the-badge&logo=github)](https://rexdeus92.github.io/Ecoclean-landing)
 
 
 A high-converting, single-page landing page for an eco-friendly apartment cleaning service.
 
 
-**🌐 Live Demo:** [https://rexdeus92.github.io/ecoclean-landing](https://rexdeus92.github.io/ecoclean-landing)
+**🌐 Live Demo:** [https://rexdeus92.github.io/ecoclean-landing](https://rexdeus92.github.io/Ecoclean-landing)
 
 ## 🌿 Features
 
