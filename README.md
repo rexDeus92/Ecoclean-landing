@@ -6,7 +6,7 @@
 A high-converting, single-page landing page for an eco-friendly apartment cleaning service.
 
 
-**🌐 Live Demo:** [https://rexdeus92.github.io/ecoclean-landing](https://rexdeus92.github.io/Ecoclean-landing)
+**🌐 Live Demo:** [https://rexdeus92.github.io/Ecoclean-landing](https://rexdeus92.github.io/Ecoclean-landing)
 
 ## 🌿 Features
 
@@ -39,7 +39,7 @@ A high-converting, single-page landing page for an eco-friendly apartment cleani
 ## 📁 Project Structure
 
 ```
-ecoclean-landing/
+Ecoclean-landing/
 ├── index.html          # Main HTML file with all sections
 ├── css/
 │   └── styles.css      # Complete design system and styles
